@@ -1,6 +1,8 @@
 # MLND-CAPSTONE-PROJECT
 Udacity Machine Learning Engineer Nanodegree - Capstone Project
 
+Please refer to **report.pdf** as the main document for this project.
+
 To make sure you can run all the notebooks, please download the files below:
 
 | File | Description | Link |
